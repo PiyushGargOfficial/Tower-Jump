@@ -1,0 +1,28 @@
+.grid {
+    width: 400px;
+    height: 600px;
+    background-color: yellow;
+    position: relative;
+    font-size: 200px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+    border: 10px solid black;
+    text-align: center;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.doodler {
+    width: 60px;
+    height: 85px;
+    background-color: red;
+    position: absolute;
+}
+
+.platform {
+    width: 85px;
+    height: 15px;
+    background-color: green;
+    position: absolute;
+}
